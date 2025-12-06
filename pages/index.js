@@ -7,7 +7,7 @@ export default function Home() {
       <motion.div
         initial={{ opacity: 0, scale: 0.8 }}
         animate={{ opacity: 1, scale: 1 }}
-        transition={{ duration: 0.6 }}
+        transition={{ duration: 1 }}
         className="text-center bg-white/40 backdrop-blur-xl p-10 rounded-2xl shadow-xl max-w-lg"
       >
         <motion.div
@@ -22,7 +22,7 @@ export default function Home() {
           MC, meu amor… 💖
         </h1>
         <p className="text-lg text-rose-800 font-medium">
-          Se você me ama de verdade, dá uma risadinha aí 😏✨
+          Se você me ama de verdade, dá uma risadinha 😏✨
         </p>
       </motion.div>
     </div>

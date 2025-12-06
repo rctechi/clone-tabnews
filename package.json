@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "dev":"next dev"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "framer-motion": "^12.23.25",
+    "lucide-react": "^0.556.0",
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
