@@ -18,13 +18,19 @@ export default function Home() {
           <Heart className="w-16 h-16" />
         </motion.div>
 
-        <h1 className="text-3xl font-bold text-rose-700 mb-4">
-          MC, meu amor… 💖
-        </h1>
+        <h1 className="text-3xl font-bold text-rose-700 mb-4">MC, meu amor</h1>
         <p className="text-lg text-rose-800 font-medium">
-          Se você me ama de verdade, dá uma risadinha 😏✨
+          💖💖💖💖 te amo 💖💖💖💖
         </p>
       </motion.div>
     </div>
   );
+}
+
+function teste() {
+  console.log("teste");
+}
+
+function teste2() {
+  console.log("teste do prettier");
 }
